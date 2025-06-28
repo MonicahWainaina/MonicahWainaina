@@ -1,4 +1,34 @@
-## Hi there 👋
+<h2>Hi there 👋🏾 I'm Monicah Wainaina</h2>
+
+I'm a software engineering graduate passionate about clean code, modern web development, and DevOps culture. I enjoy building and automating scalable systems using powerful tools across the stack.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+</div>
+
+---
+
+### 🌱 Currently Exploring
+- DevOps tools & cloud-native development  
+- CI/CD pipelines and container orchestration  
+- Full stack apps with React, Node.js & Flask  
+- **Microservices architecture and automation**
+
+---
+
+📍 Based in Kenya | 💻 Remote-ready | ☁️ Cloud curious
+
 
 <!--
 **MonicahWainaina/MonicahWainaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
