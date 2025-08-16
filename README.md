@@ -1,6 +1,6 @@
 <h2>Hi there 👋🏾 I'm Monicah Wainaina</h2>
 
-I'm a Software Engineering graduate passionate about clean code, full stack development, and DevOps culture. My focus is on building scalable, secure, cloud-native applications — and automating delivery using modern tools and methodologies.
+I'm a Software Engineering graduate passionate about clean code, full stack development, and DevOps culture. My focus is on building scalable, secure, cloud-native applications  and automating delivery using modern tools and methodologies.
 
 ---
 
