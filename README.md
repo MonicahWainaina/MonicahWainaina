@@ -18,18 +18,22 @@ I have hands-on experience with a wide range of technologies and tools across th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> CSS  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> JavaScript  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> React    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />Tailwind
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/> Bootstrap
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30"/> Tailwind  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/> Bootstrap  
 </p>
 
-#### 🛠️ <ins>Backend</ins>
+#### 🛠️ <ins>Backend Frameworks</ins>
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Python  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/> Node.js  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/> Express  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30"/> Django ORM  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> SQL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/> NoSQL (MongoDB)  
+</p>
+
+#### ☁️ <ins>Backend-as-a-Service / Serverless</ins>
+<p float="left">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30"/> Firebase (Auth, Firestore, Hosting)  
 </p>
 
 #### ⚙️ <ins>DevOps & Cloud</ins>
@@ -40,7 +44,6 @@ I have hands-on experience with a wide range of technologies and tools across th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30"/> OpenShift / Cloud  
 </p>
 
----
 
 ### 🚀 Currently Exploring
 - Microservices architecture & containerized app delivery  
